@@ -26,6 +26,9 @@
             font-weight: 100;
             
         }
+		.media-icons{
+            display: flex;
+        }
          i{
             font-size: 45px;
             margin-left: 20px;
